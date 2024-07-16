@@ -101,7 +101,7 @@
 		"@wordpress/deprecated": "3.51.1",
 		"@wordpress/dom": "3.51.1",
 		"@wordpress/dom-ready": "3.51.1",
-		"@wordpress/edit-post": "7.28.9",
+		"@wordpress/edit-post": "7.35.0",
 		"@wordpress/edit-site": "5.28.9",
 		"@wordpress/edit-widgets": "5.28.9",
 		"@wordpress/editor": "13.28.7",
